@@ -1,1 +1,2 @@
 my master txt file
+CHANGED
